@@ -1,0 +1,5 @@
+- 👋 Hi, I’m **@znbwork** – a **seasoned Java Developer** with a passion for crafting robust and scalable solutions.
+- 👀 I’m deeply interested in **Java ecosystem**, especially focusing on **backend development, enterprise applications, and microservices architectures**.
+- 🌱 I’m currently immersing myself in the exciting world of **Artificial Intelligence**, exploring **machine learning, natural language processing, and their applications in modern software systems**.
+- 💞️ While I'm not actively looking for new collaborations right now, I'm always open to **interesting discussions about Java, AI, or innovative software projects**. Feel free to reach out if you have a compelling idea!
+- 📫 You can reach me directly via email at **znbwork@outlook.com**.
